@@ -3,9 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   40 mins         ███████████████████▓░░░░░   78.16 %
-JSON         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-GDScript3    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JavaScript   3 hrs 21 mins   ███████████████████████▓░   94.65 %
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+GDScript3    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
