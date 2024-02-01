@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ████████████▒░░░░░░░░░░░░   49.93 %
-JSON         0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-Python       0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
