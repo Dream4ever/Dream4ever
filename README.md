@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 5 mins     ███████████████████████▓░   95.30 %
+Python       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
