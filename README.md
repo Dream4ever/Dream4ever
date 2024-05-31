@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    11 hrs 54 mins  ██████████▒░░░░░░░░░░░░░░   41.81 %
-Vue.js        4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-JavaScript    3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Docker        2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-YAML          1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript    11 hrs 34 mins  ██████████░░░░░░░░░░░░░░░   40.24 %
+JavaScript    3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Vue.js        3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Docker        3 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Markdown      2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
 
 <!--END_SECTION:waka-->
