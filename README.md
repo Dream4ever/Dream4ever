@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    5 hrs 49 mins   ████████████████████░░░░░   79.44 %
-Markdown      52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-TypeScript    16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Image (svg)   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Other         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JavaScript    4 hrs 4 mins    ████████████████████░░░░░   79.37 %
+Markdown      52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Image (svg)   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+SSH Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
