@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 39 mins    ████████████████████████▓   98.38 %
-Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JavaScript   1 hr 4 mins     ████████████████████████▓   98.98 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
