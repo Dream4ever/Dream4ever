@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Dream4ever&hide_title=true&count_private=true&show_icons=true&theme=tokyonight" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream4ever&hide_title=true&count_private=true&show_icons=true&theme=tokyonight&langs_count=5&layout=compact" height="150" />
+<img align="" width="57.5%" src="https://github-readme-stats.vercel.app/api?username=Dream4ever&hide_title=true&count_private=true&show_icons=true&include_all_commits=true&line_height=21" /> <img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream4ever&hide_title=true&count_private=true&show_icons=true&langs_count=5&hide_border=true&layout=compact" />
 
 <!--START_SECTION:waka-->
 
