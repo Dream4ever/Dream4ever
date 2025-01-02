@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     46 mins         █████████████████████████   99.85 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
