@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 mins         ███████████▒░░░░░░░░░░░░░   45.39 %
-TypeScript   7 mins          ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Markdown     4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+JavaScript   10 mins         ██████████████▒░░░░░░░░░░   57.93 %
+TypeScript   7 mins          ██████████▓░░░░░░░░░░░░░░   42.07 %
 ```
 
 <!--END_SECTION:waka-->
