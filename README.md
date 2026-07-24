@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          1 hr 45 mins          █████████░░░░░░░░░░░░░░░░   36.66 %
-TypeScript   1 hr 2 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-Markdown     58 mins               █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Other        48 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Bash         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
